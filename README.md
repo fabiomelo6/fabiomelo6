@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Fabio Melo
 
-<!--
-**fabiomelo6/fabiomelo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Hardware and Software Test Engineer with hands-on experience in the automotive industry — from embedded systems, product testing, and software development.
 
-Here are some ideas to get you started:
+- 🖥️ **Languages**: C, C++, C#, Python, SQL, Bash  
+- 🔧 **Tools**: NI LabVIEW, NI TestStand, Git, Visual Studio  
+- 🚗 **Protocols**: CAN, LIN, UDS  
+- 📊 **Data Tools**: Excel, Power BI, Tableau  
+- 🧠 **Interests**: Data Engineering, Data Analysis, Finance, Gaming, Crypto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Looking Ahead
+
+- 🤝 Always happy to collaborate on interesting problems about automation, data systems or other relevant topic  
+- 📚 In my spare time I like to read books, practice languages, and working on some personal projects to automate my life
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/fabiomelo6/)
+- 📨 Feel free to reach out!
