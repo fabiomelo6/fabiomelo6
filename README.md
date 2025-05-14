@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabio Melo
+# 👋 Hi, I'm Fábio Melo
 
 I'm a Hardware and Software Test Engineer with hands-on experience in the automotive industry — from embedded systems, product testing, and software development.
 
