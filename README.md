@@ -7,7 +7,7 @@ I'm a Hardware and Software Test Engineer with hands-on experience in the automo
 - 🚗 **Protocols**: CAN, LIN, UDS
 - 📊 **Data Tools**: <code><img height="20" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"></code> <code><img height="20" src="https://img.icons8.com/color/48/000000/power-bi.png"></code>
 , Tableau  
-- 🧠 **Interests**: Data Engineering, Data Analysis, Finance, Gaming, Crypto
+- 🧠 **Interests**: Automotive, Data Engineering, Data Analysis, Software Development, Finance, Gaming, Crypto, Sports, Nutrition, Reading and Languages
 
 
 ---
