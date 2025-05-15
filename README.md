@@ -19,7 +19,6 @@ I'm a Hardware and Software Test Engineer with hands-on experience in the automo
 
 ---
 
-## 📫 Let’s Connect
+## 📫 In case you want to reach out
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/fabiomelo6/)
-- 📨 Feel free to reach out!
