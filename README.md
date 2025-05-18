@@ -15,7 +15,7 @@ I'm a Hardware and Software Test Engineer with hands-on experience in the automo
 ## 🚀 Looking Ahead
 
 - 🤝 Always happy to collaborate on interesting problems about automation, data systems or other relevant topic  
-- 📚 In my spare time I like to read books, do sports, and work on some personal projects to automate my life
+- 📚 In my spare time I like to read books, do sports, research about stocks, finance, crypto, and work on some personal projects to automate my life
 
 ---
 
